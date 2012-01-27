@@ -1,0 +1,2 @@
+#[link(name= "lucas", vers = "1.0", author = "David Shere")];
+mod lucas;
